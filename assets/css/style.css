@@ -60,3 +60,6 @@ html, body{
 	display: inline-block;
 }
 
+.grey.darken-4 {
+    margin: -7px;
+}
